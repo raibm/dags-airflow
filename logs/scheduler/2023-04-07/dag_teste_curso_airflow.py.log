@@ -1,0 +1,148 @@
+[2023-04-07T13:23:12.494-0300] {processor.py:153} INFO - Started process (PID=4755) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:23:12.496-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:23:12.497-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.497-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:23:12.525-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:23:12.765-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.765-0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:dag_rai_teste_003
+[2023-04-07T13:23:12.791-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.790-0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:dag_rai_teste_003
+[2023-04-07T13:23:12.809-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.809-0300] {manager.py:504} INFO - Created Permission View: can read on DAG:dag_rai_teste_003
+[2023-04-07T13:23:12.810-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.810-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:23:12.829-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.829-0300] {dag.py:2726} INFO - Creating ORM DAG for dag_rai_teste_003
+[2023-04-07T13:23:12.844-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:23:12.844-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:23:12.867-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.378 seconds
+[2023-04-07T13:26:09.974-0300] {processor.py:153} INFO - Started process (PID=4836) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:09.976-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:26:09.976-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:09.976-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:09.990-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:10.005-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:10.005-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:26:10.024-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:10.023-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:26:10.045-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.073 seconds
+[2023-04-07T13:26:59.018-0300] {processor.py:153} INFO - Started process (PID=4844) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:59.019-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:26:59.020-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:59.020-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:59.035-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:26:59.050-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:59.050-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:26:59.069-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:26:59.069-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:26:59.091-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.075 seconds
+[2023-04-07T13:29:54.029-0300] {processor.py:153} INFO - Started process (PID=4887) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:29:54.030-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:29:54.030-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:29:54.030-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:29:54.043-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:29:54.058-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:29:54.058-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:29:54.075-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:29:54.075-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:29:54.094-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.067 seconds
+[2023-04-07T13:31:22.373-0300] {processor.py:153} INFO - Started process (PID=4905) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:22.375-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:31:22.375-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:22.375-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:22.389-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:22.404-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:22.404-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:31:22.423-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:22.423-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:31:22.446-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.074 seconds
+[2023-04-07T13:31:45.353-0300] {processor.py:153} INFO - Started process (PID=4914) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:45.353-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:31:45.354-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:45.354-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:45.368-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:31:45.382-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:45.382-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:31:45.401-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:31:45.401-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:31:45.421-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.070 seconds
+[2023-04-07T13:32:15.562-0300] {processor.py:153} INFO - Started process (PID=4919) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:15.563-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:32:15.564-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:15.564-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:15.582-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:15.613-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:15.613-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:32:15.669-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:15.669-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:32:15.693-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.134 seconds
+[2023-04-07T13:32:46.058-0300] {processor.py:153} INFO - Started process (PID=4925) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:46.064-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:32:46.066-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:46.065-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:46.092-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:32:46.124-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:46.124-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:32:46.156-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:32:46.156-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:32:46.181-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.129 seconds
+[2023-04-07T13:33:16.693-0300] {processor.py:153} INFO - Started process (PID=4926) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:16.695-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:33:16.696-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:16.696-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:16.730-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:16.758-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:16.758-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:33:16.786-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:16.785-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-25T10:15:00+00:00, run_after=2023-01-26T10:15:00+00:00
+[2023-04-07T13:33:16.811-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.123 seconds
+[2023-04-07T13:33:47.212-0300] {processor.py:153} INFO - Started process (PID=4931) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:47.217-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:33:47.218-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:47.218-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:47.247-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:33:47.282-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:47.282-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:33:47.315-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:33:47.315-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-01-26T10:15:00+00:00, run_after=2023-01-27T10:15:00+00:00
+[2023-04-07T13:33:47.352-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.143 seconds
+[2023-04-07T13:34:18.153-0300] {processor.py:153} INFO - Started process (PID=4942) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:18.158-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:34:18.159-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:34:18.159-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:18.188-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:18.217-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:34:18.216-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:34:18.287-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.137 seconds
+[2023-04-07T13:34:48.581-0300] {processor.py:153} INFO - Started process (PID=4953) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:48.581-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:34:48.582-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:34:48.582-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:48.599-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:34:48.619-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:34:48.618-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:34:48.663-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.084 seconds
+[2023-04-07T13:35:19.211-0300] {processor.py:153} INFO - Started process (PID=4964) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:19.212-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:35:19.213-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:35:19.213-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:19.244-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:19.265-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:35:19.265-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:35:19.312-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.104 seconds
+[2023-04-07T13:35:49.693-0300] {processor.py:153} INFO - Started process (PID=4975) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:49.694-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:35:49.694-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:35:49.694-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:49.708-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:35:49.724-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:35:49.724-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:35:49.762-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.070 seconds
+[2023-04-07T13:36:20.636-0300] {processor.py:153} INFO - Started process (PID=4986) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:20.638-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:36:20.639-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:36:20.639-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:20.652-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:20.667-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:36:20.667-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:36:20.707-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.073 seconds
+[2023-04-07T13:36:51.145-0300] {processor.py:153} INFO - Started process (PID=4997) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:51.146-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:36:51.146-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:36:51.146-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:51.160-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:36:51.175-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:36:51.175-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:36:51.214-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.072 seconds
+[2023-04-07T13:43:00.488-0300] {processor.py:153} INFO - Started process (PID=62) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:00.490-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:43:00.491-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:43:00.490-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:00.515-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:00.561-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:43:00.561-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:43:00.645-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.160 seconds
+[2023-04-07T13:43:32.843-0300] {processor.py:153} INFO - Started process (PID=73) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:32.844-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:43:32.845-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:43:32.845-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:32.871-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:43:32.903-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:43:32.903-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:43:32.990-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.151 seconds
+[2023-04-07T13:44:05.416-0300] {processor.py:153} INFO - Started process (PID=84) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:05.417-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:44:05.418-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:44:05.418-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:05.432-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:05.453-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:44:05.453-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:44:05.495-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.082 seconds
+[2023-04-07T13:44:38.344-0300] {processor.py:153} INFO - Started process (PID=95) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:38.347-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:44:38.348-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:44:38.348-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:38.368-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:44:38.390-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:44:38.390-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:44:38.446-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.104 seconds
+[2023-04-07T13:45:08.743-0300] {processor.py:153} INFO - Started process (PID=100) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:08.746-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:45:08.749-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:08.749-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:08.784-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:08.816-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:08.815-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:45:08.843-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:08.843-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-04-07T10:15:00+00:00, run_after=2023-04-10T10:15:00+00:00
+[2023-04-07T13:45:08.887-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.149 seconds
+[2023-04-07T13:45:39.472-0300] {processor.py:153} INFO - Started process (PID=101) to work on /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:39.475-0300] {processor.py:743} INFO - Processing file /home/rai/airflow/dags/dag_teste_curso_airflow.py for tasks to queue
+[2023-04-07T13:45:39.477-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:39.477-0300] {dagbag.py:532} INFO - Filling up the DagBag from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:39.512-0300] {processor.py:753} INFO - DAG(s) dict_keys(['dag_rai_teste_003']) retrieved from /home/rai/airflow/dags/dag_teste_curso_airflow.py
+[2023-04-07T13:45:39.554-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:39.554-0300] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-07T13:45:39.587-0300] {logging_mixin.py:137} INFO - [2023-04-07T13:45:39.587-0300] {dag.py:3452} INFO - Setting next_dagrun for dag_rai_teste_003 to 2023-04-07T10:15:00+00:00, run_after=2023-04-10T10:15:00+00:00
+[2023-04-07T13:45:39.612-0300] {processor.py:175} INFO - Processing /home/rai/airflow/dags/dag_teste_curso_airflow.py took 0.143 seconds
